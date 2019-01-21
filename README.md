@@ -15,7 +15,7 @@ mkdir casey.reviews
 
 cd casey.reviews
 
-hexo init
+git clone https://github.com/bendotbike/casey.reviews.git
 
 npm install
 
