@@ -1,5 +1,5 @@
 # casey.reviews
-The production code for http://casey.reviews
+The source and production code for http://casey.reviews
 
 ## Dependancies
 - git
